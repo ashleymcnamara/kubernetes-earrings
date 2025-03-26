@@ -28,7 +28,7 @@ To match the look in the photo:
 
 ## Hardware Used
 
-- 🪝 Earring Hooks: [Stainless Steel French Hooks (Silver)](https://amzn.to/4iJF2BS)  
+- 🪝 Earring Hooks: [Stainless Steel Rainbow Ear Fish Hooks](https://amzn.to/4iJF2BS)  
 - 🔗 Jump Rings: [Silver Jump Rings Assortment Kit](https://amzn.to/4lci2gq)  
 
 Each pixel heart earring uses two jump rings: one to attach the heart to the Kubernetes logo and one for the hook.
