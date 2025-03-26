@@ -22,9 +22,9 @@ Designed in **Fusion 360**, this repo includes:
 
 To match the look in the photo:
 
-- 🔵 Blue PLA: [Overture Sky Blue PLA](https://amzn.to/4lchyXE)  
-- ⚪ White PLA: [Overture White PLA](https://amzn.to/4hLdfj9)  
-- 🔴 Red PLA: [Overture Red PLA](https://amzn.to/4iEyyUK)  
+- 🔵 Blue PLA: [ELEGOO Sky Blue PLA](https://amzn.to/4lchyXE)  
+- ⚪ White PLA: [ELEGOO White PLA](https://amzn.to/4hLdfj9)  
+- 🔴 Red PLA: [ELEGOO Red PLA](https://amzn.to/4iEyyUK)  
 
 ## Hardware Used
 
