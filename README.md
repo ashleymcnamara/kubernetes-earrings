@@ -1,6 +1,6 @@
 # Kubernetes Earrings 💙❤️
 
-A 3D-printable accessory set inspired by the Kubernetes logo—with a bit of open source heart.
+A 3D-printable accessory set inspired by the Kubernetes logo with a bit of open source heart.
 
 This project includes **two separate earring designs**:
 
@@ -68,4 +68,4 @@ Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://cre
 
 ---
 
-✨ If you print a pair (or remix them), tag me—I'd love to see what you create!
+✨ If you print a pair (or remix them), tag me, I'd love to see what you create!
