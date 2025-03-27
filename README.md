@@ -16,7 +16,10 @@ Designed in **Fusion 360**, this repo includes:
 - `k8s_top.stl` – Kubernetes logo piece with top and bottom holes  
 - `pixel_heart.stl` – Pixel-style heart with white highlights  
 - `.3mf` files for all of the above (for better color and layer control)  
-- Preview images  
+
+<img width="248" alt="Screenshot 2025-03-26 at 7 56 16 PM" src="https://github.com/user-attachments/assets/a3e53a2a-6198-46d7-a1f3-c69ab2aeb5b7" /> 
+<img width="252" alt="Screenshot 2025-03-26 at 7 56 25 PM" src="https://github.com/user-attachments/assets/2db1e5bd-6b48-4312-829d-8a92618028d0" />
+
 
 ## Materials Used
 
@@ -45,8 +48,7 @@ Each pixel heart earring uses two jump rings: one to attach the heart to the Kub
 - The standalone Kubernetes logo can double as a **keychain or bag charm**
 
 ## Attribution
-
-This design was created by [Ashley Willis (@ashley.dev on Bluesky)](https://bsky.app/profile/ashley.dev).  
+  
 You’re welcome to remix or print for **personal use**, but **please do not sell** these earrings or modified versions.  
 Attribution is required if you share or post your remix.
 
