@@ -11,10 +11,8 @@ This project includes **two separate earring designs**:
 
 Designed in **Fusion 360**, this repo includes:
 
-- `k8s_heart_earring.stl` – Combined earring: Kubernetes logo with pixelated heart attached  
-- `k8s_plain_earring.stl` – Standalone Kubernetes logo earring/keychain  
-- `k8s_top.stl` – Kubernetes logo piece with top and bottom holes  
-- `pixel_heart.stl` – Pixel-style heart with white highlights  
+- `k8s_Pixel_heart_earring.stl` – Combined earring: Kubernetes logo with pixelated heart attached  
+- `k8s_earring.stl` – Standalone Kubernetes logo earring/keychain  
 - `.3mf` files for all of the above (for better color and layer control)  
 
 <img width="248" alt="Screenshot 2025-03-26 at 7 56 16 PM" src="https://github.com/user-attachments/assets/a3e53a2a-6198-46d7-a1f3-c69ab2aeb5b7" /> 
