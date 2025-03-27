@@ -5,7 +5,7 @@ A 3D-printable accessory set inspired by the Kubernetes logo with a bit of open 
 This project includes **two separate earring designs**:
 
 1. **Pixel Heart Dangle Earrings** – A layered design featuring the Kubernetes ship wheel on top and a pixelated red heart dangling below. 
-2. **Plain Kubernetes Logo Earrings (or Keychain)** – Just the Kubernetes logo with a top hole, great as a minimalist earring—or repurpose it as a keychain or zipper pull if jewelry isn't your thing.
+2. **Plain Kubernetes Logo Earrings (or Keychain)** – Just the Kubernetes logo with a top hole, great as a minimalist earring or repurpose it as a keychain or zipper pull if jewelry isn't your thing.
 
 ## What's Included
 
