@@ -59,11 +59,11 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material  
 
 Under the following terms:
-- **Attribution** — Credit must be given to the original creators (Ashley Willis + Martin Woodward)  
+- **Attribution** — Credit must be given to the original creators ([Ashley Willis](https://bsky.app/profile/ashley.dev) + [Martin Woodward](https://bsky.app/profile/martin.social))  
 - **NonCommercial** — You may not use the material for commercial purposes  
 
 Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
-✨ If you print a pair (or remix them), tag me, I'd love to see what you create!
+✨ If you print a pair (or remix them), tag us, we would love to see what you create!
