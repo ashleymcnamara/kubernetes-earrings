@@ -59,7 +59,7 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material  
 
 Under the following terms:
-- **Attribution** — Credit must be given to the original creator (Ashley Willis)  
+- **Attribution** — Credit must be given to the original creators (Ashley Willis + Martin Woodward)  
 - **NonCommercial** — You may not use the material for commercial purposes  
 
 Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
